@@ -4,12 +4,11 @@ Proyecto de Inteligencia Artificial que implementa un chatbot conversacional
 para análisis de datos de ventas utilizando RAG, Agentes y Mistral AI.
 
 ## 📁 Estructura del Proyecto
-
-| Archivo | Descripción |
-|---|---|
-| `1_normalizacion.ipynb` | Limpieza y normalización del dataset |
-| `2_bot_rag_agente.ipynb` | BOT principal con RAG + Agentes + Mistral |
-| `ventas_normalizado.csv` | Dataset limpio listo para usar |
+| Archivo | Descripción | Estado |
+|---|---|---|
+| `1_normalizacion.ipynb` | Limpieza y normalización del dataset | ✅ Estable |
+| `2_bot_rag_agente.ipynb` | BOT principal con RAG + Agentes + Mistral | 🧪 En prueba |
+| `ventas_normalizado.csv` | Dataset limpio listo para usar | ✅ Estable |
 
 ## 🛠️ Tecnologías utilizadas
 
