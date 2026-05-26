@@ -8,6 +8,3 @@ Asistente inteligente para análisis de datos de ventas mediante **Agente de Pan
 * **Interfaz Visual:** Chat integrado en Jupyter/Colab mediante `ipywidgets`.
 * **Validación:** Panel automático de gráficos para verificar precisión y cobertura.
 
-## 🛠 Instalación
-```bash
-pip install langchain==0.3.25 langchain-core==0.3.63 langchain-community==0.3.24 langchain-mistralai==0.2.10 langchain-experimental==0.3.4 faiss-cpu==1.11.0 tabulate
